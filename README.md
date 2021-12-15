@@ -70,5 +70,20 @@ In order to reduce the complexity and the computation time of the problem, we al
 
 <h3> a) Banknote Authentication Dataset </h3>
 
+We notice that every model is quite accurate on that dataset, even the least accurate model which is the SVM with a degre 2 polynome. The best model on that dataset, is the SVM with a Radial basis function kernel. We also notice that the Decision trees, Random Forest and Neural Network are efficient model to compute this type of problem. These performance could even be enhance by the study of the optimal depth of the Trees, or the structure of the Neural Network.
 
+![image](https://github.com/GermainMorilhat/ML-Project/blob/main/cross_validation_banknote.png)
+<br>
+<h3> b) Chronic Kidney Disease </h3>
+
+For this dataset, the results are more balanced. As in the case of the Banknote dataset, the Bayesian Clasifier is one of the least performing model. Another time, the SVM with a RBF kernel is the best performer. This type of kernel is really adapted to this kind problem.
+![image](https://github.com/GermainMorilhat/ML-Project/blob/main/cross_validation_kidney.png)
+
+## :grey_question: How does it work ?
+
+```bash
+# Clone this project
+$ git clone https://github.com/GermainMorilhat/ML-Project
+
+```
 
