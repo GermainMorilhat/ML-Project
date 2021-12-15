@@ -40,6 +40,7 @@ Another thing we would like to focus on is the automation of our script, with th
 The first thing that we have to care about is the errors that could come from missing or corrupted values in the dataset. In order to deal with the issue, we have implemented a <b> Preprocessing function </b> which takes as an input the csv file and other parameters which describe it, like character that separate the column. This preprocessing function deals with missing values by replacing them with the mean of other instance on this attribute. <br>
 <br>
 In order to reduce the complexity and the computation time of the problem, we also use technics to try to reduce the size of the dataset. By computing the correlation matrix of the data columns, we are able to determine which columns are closely linked. If two columns are correlated at more than 75%, we keep only one of the both, ensuring us to reduce the size of the problem.
+<br>
 ![image](https://github.com/GermainMorilhat/ML-Project/blob/main/correlation_matrix_banknote.png) ![image](https://github.com/GermainMorilhat/ML-Project/blob/main/correlation_matrix_kidney.png)
 
 
