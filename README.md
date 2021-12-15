@@ -51,3 +51,6 @@ In order to evaluate the accuracy of our result, and compare the different metho
 
 
 <h2> III - Results </h2>
+
+After computing the cross validation score of each classification model, we notice that the method with the best score is "SVM with RBF kernel". We notice that Decision Trees and Random Forest also have an high score. SVM with polynomial degre 2 is the least accurate method.
+
