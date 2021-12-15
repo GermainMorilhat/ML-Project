@@ -54,22 +54,6 @@ In order to reduce the complexity and the computation time of the problem, we al
 <h3> c) Methods used </h3>
   We chose to use the scikit learn library to implement our classification models. We will implement several models such as :
 
-  
-  Figure : d
- 
-
-<h4> 1) Logistic regression </h3>
-    
-   Logisitic regression allows to make a classification with an optimization of the "delta" parameter. 
-  
-   Figure : E
-  
-<h4> 2) Neural network </h3>
-  
- We have a neural network composed of 2 layers. One with 5 neurons and the other with 2 neurons. 
-  
-  Figure : F 
-  
   <ul>
   <li> SVM and Kernel methods : We will use several kernel such as linear kernel, polynomail kernel, Radial basis function kernel, sigmoid </li>
     <li> Stochastic Gradient Descent</li>
