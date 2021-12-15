@@ -11,10 +11,10 @@ This repository presents our Machine Learning project. The group of work is comp
   
 This project aims to apply Binary Classifcation on two different datasets: 
 <ul>
-  <li> Banknote Authentication Dataset : https://archive.ics.uci.edu/ml/datasets/banknote+authentication <br>
+  <li> <b> Banknote Authentication Dataset </b> : https://archive.ics.uci.edu/ml/datasets/banknote+authentication <br>
     This dataset is composed by 1372 instances, with 5 attributes each, and it gives as an output if the Banknote is falsified or not. The purpose will be to train our classification model, to be able to determine if a given banknote is valid or not.
   </li>
-  <li> Chronic Kidney Disease : https://www.kaggle.com/mansoordaku/ckdisease <br>
+  <li> <b> Chronic Kidney Disease </b> : https://www.kaggle.com/mansoordaku/ckdisease <br>
     This dataset is composed by 400 instances, with 24 attributes each, such as patient's age or red blood cell count and gives as an output if a given patient is suffering from chronic kidney disease or not. We will train our classification model to predict if a new patient is likely to suffer from chronic kidney disease.
   </li>
 </ul>
