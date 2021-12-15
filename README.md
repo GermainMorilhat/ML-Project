@@ -68,4 +68,7 @@ In order to reduce the complexity and the computation time of the problem, we al
 
 <h2> III - Results </h2>
 
+<h3> a) Banknote Authentication Dataset </h3>
+
+
 
