@@ -45,12 +45,31 @@ In order to reduce the complexity and the computation time of the problem, we al
 <h3> b) Evaluation of the results </h3>
 
 
-In order to evaluate the accuracy of our result, and compare the different methods we implement a N-cross-validation function. Thus, we will be able to have, for a dataset, N different repartition of the training and test sets, which will allow us to have a representative information of the performance of a method.
+  In order to evaluate the accuracy of our result, and compare the different methods we implement a N-cross-validation function. Thus, we will be able to have, for a dataset, N different repartition of the training and test sets, which will allow us to have a representative information of the performance of a method.
 
 <h3> c) Method used </h3>
 
+  For the evaluation of our model, we have chosen the Cross validation, SVM, neural network and logistic regression to know the performance of our model. We decided to use the model provided by the "scikit learn" library because it is simple to use and efficient for these data.
+
+  
+  Figure : d
+ 
+
+<h4> 1) Logistic regression </h3>
+    
+   Logisitic regression allows to make a classification with an optimization of the "delta" parameter. 
+  
+   Figure : E
+  
+<h4> 2) Neural network </h3>
+  
+ We have a neural network composed of 2 layers. One with 5 neurons and the other with 2 neurons. 
+  
+  Figure : F 
+  
+ 
+   
 
 <h2> III - Results </h2>
 
-After computing the cross validation score of each classification model, we notice that the method with the best score is "SVM with RBF kernel". We notice that Decision Trees and Random Forest also have an high score. SVM with polynomial degre 2 is the least accurate method.
 
