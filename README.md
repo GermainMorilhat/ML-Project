@@ -53,7 +53,7 @@ In order to reduce the complexity and the computation time of the problem, we al
 
 <h3> c) Method used </h3>
 
-  For the evaluation of our model, we have chosen the Cross validation, SVM, neural network and logistic regression to know the performance of our model. We decided to use the model provided by the "scikit learn" library because it is simple to use and efficient for these data.
+  For the evaluation of our model, we chose SVM, neural network and logistic regression to know the performance of our model. We decided to use the model provided by the "scikit learn" library because it is simple to use and efficient for these data.
 
   
   Figure : d
