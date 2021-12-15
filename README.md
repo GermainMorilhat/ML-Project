@@ -51,9 +51,8 @@ In order to reduce the complexity and the computation time of the problem, we al
 
   In order to evaluate the accuracy of our result, and compare the different methods we implement a N-cross-validation function. Thus, we will be able to have, for a dataset, N different repartition of the training and test sets, which will allow us to have a representative information of the performance of a method.
 
-<h3> c) Method used </h3>
-
-  For the evaluation of our model, we chose SVM, neural network and logistic regression to know the performance of our model. We decided to use the model provided by the "scikit learn" library because it is simple to use and efficient for these data.
+<h3> c) Methods used </h3>
+  We chose to use the scikit learn library to implement our classification models. We will implement several models such as :
 
   
   Figure : d
@@ -71,7 +70,15 @@ In order to reduce the complexity and the computation time of the problem, we al
   
   Figure : F 
   
- 
+  <ul>
+  <li> SVM and Kernel methods : We will use several kernel such as linear kernel, polynomail kernel, Radial basis function kernel, sigmoid </li>
+    <li> Stochastic Gradient Descent</li>
+    <li> Decision Trees</li>
+    <li> Bayesien classifcation</li>
+    <li> Random Forest</li>
+    <li> Neural network :  We have a neural network composed of 2 layers. One with 5 neurons and the other with 2 neurons. </li>
+    <li> Logistic regression :    Logisitic regression allows to make a classification with an optimization of the "delta" parameter. </li>
+  </ul>
    
 
 <h2> III - Results </h2>
