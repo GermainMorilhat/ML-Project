@@ -24,6 +24,6 @@ Before we start present our work, we think that it is important to deal with the
 </p>
 <br>
 <p>
-Another thing we would like to focus on is the automation of our script, with the objective that the only action of a user trying to use it would be to change the database. For this, we will try to automate the different steps of the project, whether it is during the preprocessing with the cleaning of the data, or afterwards during the training and execution of the model.<br> To prevent bugs from appearing and to facilitate the maintenance of our code, we will also try to separate our code into multiple simple functions, allowing us to avoid a large number of incompatibilities between functions and to reduce the entropy of our
+Another thing we would like to focus on is the automation of our script, with the objective that the only action of a user trying to use it would be to change the database. For this, we will try to automate the different steps of the project, whether it is during the preprocessing with the cleaning of the data, or afterwards during the training and execution of the model.<br> To prevent bugs from appearing and to facilitate the maintenance of our code, we will also try to separate our code into multiple simple functions, allowing us to avoid a large number of incompatibilities between functions and to reduce the entropy of our script.
 
 </p>
