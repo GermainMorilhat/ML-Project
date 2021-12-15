@@ -42,7 +42,7 @@ In order to reduce the complexity and the computation time of the problem, we al
 <h3> b) Evaluation of the results </h3>
 
 
-
+In order to evaluate the accuracy of our result, and compare the different methods we implement a N-cross-validation function. Thus, we will be able to have, for a dataset, N different repartition of the training and test sets, which will allow us to have a representative information of the performance of a method.
 
 <h3> c) Method used </h3>
 
