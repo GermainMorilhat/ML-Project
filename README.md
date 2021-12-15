@@ -86,8 +86,6 @@ For this dataset, the results are more balanced. As in the case of the Banknote 
 $ git clone https://github.com/GermainMorilhat/ML-Project
 
 ```
-'''bash
-
 
 # Appendix : 
 
