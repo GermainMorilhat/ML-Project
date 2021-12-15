@@ -27,6 +27,9 @@ Before we start present our work, we think that it is important to deal with the
 <br>
 <p>
 Another thing we would like to focus on is the automation of our script, with the objective that the only action of a user trying to use it would be to change the database. For this, we will try to automate the different steps of the project, whether it is during the preprocessing with the cleaning of the data, or afterwards during the training and execution of the model.<br> To prevent bugs from appearing and to facilitate the maintenance of our code, we will also try to separate our code into multiple simple functions, allowing us to avoid a large number of incompatibilities between functions and to reduce the entropy of our script.
+ 
+  We have also tried to comment as much as possible on our functions so that we can work on different functions and provide effective help. Regular testing allowed us to make rapid progress and to understand errors more quickly. We solved the problems with this method for pre-processing functions.
+  In the end, the group work allowed to take a step back on the work of each one and to bring a solution. The fact of working together allowed us to be faster and more efficient. 
 
 </p>
 
